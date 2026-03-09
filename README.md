@@ -30,7 +30,7 @@ Remote sensing image generation is a pivotal technique for mitigating image scar
 
 <!-- 下面这行的 src 里面换成你在GitHub上传的那张大图的真实链接 -->
 <p align="center">
-  <img src="https://github.com/DUT-ZYu/CPD-MMRS/blob/main/com1_04(2)(1).png" alt="CPD-MMRS Results" width="100%">
+  <img src="https://github.com/DUT-ZYu/CPD-MMRS/blob/main/1_06.jpg" alt="CPD-MMRS Results" width="100%">
 </p>
 <p align="center">
   <em>Qualitative comparison of the generated effects of our CPD-MMRS model and other SOTA generation methods.</em>
