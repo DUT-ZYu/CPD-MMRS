@@ -51,7 +51,14 @@ Remote sensing image generation is a pivotal technique for mitigating image scar
 <p align="center">
   <em>Qualitative comparison of the generated effects of our CPD-MMRS model</em>
 </p>
----
+
+<p align="center">
+  <img src="https://github.com/DUT-ZYu/CPD-MMRS/blob/main/1_09.jpg" alt="CPD-MMRS Results" width="100%">
+</p>
+<p align="center">
+  <em>Qualitative comparison of the generated effects of our CPD-MMRS model</em>
+</p>
+...
 
 ## 🚀 Getting Started (Code Coming Soon)
 
