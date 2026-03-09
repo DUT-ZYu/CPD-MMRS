@@ -17,7 +17,7 @@ Official PyTorch implementation of "Contrastive Parameter Disentanglement for Mu
 <br>
 
 ## 📣 News
-- **[Latest]** Our paper is currently under review. The official PyTorch source code and pre-trained models will be released immediately upon acceptance. Please stay tuned!
+- **[Latest]** The official PyTorch source code and pre-trained models will be released immediately upon acceptance. Please stay tuned!
 
 ---
 
