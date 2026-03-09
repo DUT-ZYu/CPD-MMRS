@@ -10,7 +10,6 @@ Official PyTorch implementation of "Contrastive Parameter Disentanglement for Mu
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-v1.8+-red.svg?logo=PyTorch" alt="PyTorch"></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8+-blue.svg?logo=python" alt="Python"></a>
 <a href="#"><img src="https://img.shields.io/badge/Paper-Under_Review-green.svg?logo=arxiv" alt="Paper"></a>
-<a href="mailto:yinzs2015@whut.edu.cn"><img src="https://img.shields.io/badge/Contact-Email-yellow" alt="Contact"></a>
 
 </div>
 
@@ -26,16 +25,32 @@ Remote sensing image generation is a pivotal technique for mitigating image scar
 
 ---
 
-## 🖼️ Visual Results
+## 🖼️ Visual Results (WHU-OPT-SAR) Dataset
 
 <!-- 下面这行的 src 里面换成你在GitHub上传的那张大图的真实链接 -->
 <p align="center">
   <img src="https://github.com/DUT-ZYu/CPD-MMRS/blob/main/1_06.jpg" alt="CPD-MMRS Results" width="100%">
 </p>
 <p align="center">
-  <em>Qualitative comparison of the generated effects of our CPD-MMRS model and other SOTA generation methods.</em>
+  <em>Qualitative comparison of the generated effects of our CPD-MMRS model</em>
 </p>
 
+## 🖼️ Visual Results (OSI) Dataset 
+
+<!-- 下面这行的 src 里面换成你在GitHub上传的那张大图的真实链接 -->
+<p align="center">
+  <img src="https://github.com/DUT-ZYu/CPD-MMRS/blob/main/1_07.jpg" alt="CPD-MMRS Results" width="100%">
+</p>
+<p align="center">
+  <em>Qualitative comparison of the generated effects of our CPD-MMRS model</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/DUT-ZYu/CPD-MMRS/blob/main/1_08.jpg" alt="CPD-MMRS Results" width="100%">
+</p>
+<p align="center">
+  <em>Qualitative comparison of the generated effects of our CPD-MMRS model</em>
+</p>
 ---
 
 ## 🚀 Getting Started (Code Coming Soon)
