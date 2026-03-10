@@ -9,7 +9,6 @@ Official PyTorch implementation of "Contrastive Parameter Disentanglement for Mu
 <!-- 彩色标签 (Badges) -->
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-v2.1+-red.svg?logo=PyTorch" alt="PyTorch"></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.11+-blue.svg?logo=python" alt="Python"></a>
-<a href="#"><img src="https://img.shields.io/badge/Paper-Under_Review-green.svg?logo=arxiv" alt="Paper"></a>
 
 </div>
 
